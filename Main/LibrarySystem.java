@@ -1,6 +1,6 @@
-import java.util.Scanner;
 package Main;
 
+import java.util.Scanner;
 public class LibrarySystem {
     private LibraryCatalog catalog;
     private Scanner scanner;
